@@ -1,6 +1,6 @@
  Tasks Instructions, Input, and Output
 
-# Task 1 (generel)
+# Task 1 (general)
 
 ## Input:
 
@@ -49,5 +49,64 @@ For each test case:
 2
 5 9 
 0
+```
 
-# Task 1 (generel)
+# Task 2 (sorting)
+## Input:
+
+The first line of input contains a natural number `t`, which represents the number of test cases. Each test case begins with a natural number `n`, indicating the number of artifacts in the given dataset. The following `n` lines contain descriptions of the artifacts. Each description consists of:
+
+- **Artifact Identifier**: A single-word string.
+- **Mass (`m`)**: A natural number in kilograms representing the weight of the artifact.
+
+### Constraints:
+
+- \( 1 \leq t \leq 10 \)
+- \( 1 \leq n \leq 50,000 \)
+- \( 1 \leq m \leq 100,000 \)
+
+---
+
+## Output:
+
+For each test case, the output should include two lines:
+
+1. Line 1: The minimum total energy required to place all artifacts into the Paradox Vault.
+2. Line 2: A space-separated list of artifact identifiers in the order they should be placed into the vault to minimize energy usage.
+
+---
+
+## Note:
+
+You **cannot use STL libraries** for this task. A self-written sorting algorithm must be implemented.
+
+---
+
+## Example:
+
+### Input:
+```
+2
+5
+rower_elektryczny-1453 12
+smartfon-1890 1
+dron_z_kamera-2000pne 4
+przenosna_lodowka-753 8
+teleporter_do_kawy-2024 4
+3
+skaner_mysli-1984 7
+teletransporter-3210pne 133
+noktowizor-1410 1
+```
+
+### Output:
+```
+61
+smartfon-1890 dron_z_kamera-2000pne teleporter_do_kawy-2024 przenosna_lodowka-753 rower_elektryczny-1453
+150
+noktowizor-1410 skaner_mysli-1984 teletransporter-3210pne
+```
+
+
+
+
