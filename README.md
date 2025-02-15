@@ -28,4 +28,4 @@ Repo contains an solving the problem of algorithms and data stucture  write in C
 - **Queue**
 - **Linked List**
 
-## all the task is here: [a relative link](TASK_IN_OUT.md)
+## all the task is here: [tasks link](TASK_IN_OUT.md)
