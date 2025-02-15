@@ -5,7 +5,7 @@ Repo contains an solving the problem of algorithms and data stucture  write in C
 - **Sorting**:
   - Insertion Sort
   - Bubble Sort
-  - Selection Algorithms
+-**Selection Algorithms**
 - **Linear Time Sorting**
 - **Binary Heap**
 - **Backtracking**
