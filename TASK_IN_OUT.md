@@ -1,8 +1,6 @@
  Tasks Instructions, Input, and Output
 
-## Task 1: Maximum Length of Fence Span
-
-# Problem Statement
+# Task 1 (generel)
 
 ## Input:
 
@@ -51,3 +49,5 @@ For each test case:
 2
 5 9 
 0
+
+# Task 1 (generel)
