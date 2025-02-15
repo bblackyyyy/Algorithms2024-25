@@ -1,5 +1,7 @@
 
-<img src="diagram.png" width="128"/>
+<center>
+
+<img src="diagram.png" width="128"/></center>
 
 
 # Algorithms2024-25
