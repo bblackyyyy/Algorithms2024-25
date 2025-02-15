@@ -1,5 +1,5 @@
 
-<img src="hierarchical-structure.png" width="128"/>
+<img src="diagram.png" width="128"/>
 
 
 # Algorithms2024-25
